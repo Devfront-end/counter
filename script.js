@@ -1,8 +1,8 @@
-
 // Get references to the counter element and buttons
 const counterElement = document.getElementById("counter");
 const incrementBtn = document.getElementById("incrementBtn");
 const decrementBtn = document.getElementById("decrementBtn");
+
 
 // Initial counter value
 let counterValue = 0;
@@ -19,6 +19,7 @@ incrementBtn.addEventListener("click", () => {
 
   // Check if counterValue is 10
   if (counterValue === 10) {
+    confetti.start(); // Start the confetti animation
     alert("Counter reached 10!");
   }
 });
@@ -29,8 +30,7 @@ decrementBtn.addEventListener("click", () => {
   updateCounter();
 });
 
+
 // Initialize the counter display
 updateCounter();
 
-
-  
