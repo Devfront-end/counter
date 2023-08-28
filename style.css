@@ -1,0 +1,251 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, hsl(249, 96%, 48%), #ff3300);
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    animation: radiant-scan 0.5s ease-in-out;
+}
+
+#counter {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.btn {
+    display: block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #333;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+@keyframes radiant-scan {
+    0% {
+        transform: scale(0);
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Add your styles below this line */
+
+/* END: abpxx6d04wxr */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, hsl(249, 96%, 48%), #ff3300);
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    animation: radiant-scan 0.5s ease-in-out;
+}
+
+#counter {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.btn {
+    display: block;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #333;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+@keyframes radiant-scan {
+    0% {
+        transform: scale(0);
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Add your styles below this line */
+
+    body {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background: linear-gradient(to bottom right, hsl(249, 96%, 48%), #ff3300);
+    }
+
+    
+
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    animation: radiant-scan 0.5s ease-in-out;
+}
+
+#counter {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.btn {
+    display: block;
+    margin: 10px;
+    padding: 10px 20px;
+    height: 20px;
+    .btn {
+        display: block;
+        margin: 20px 10px;
+        padding: 15px 30px;
+        border: none;
+        border-radius: 5px;
+        font-size: 32px;
+        font-weight: bold;
+        color: white;
+        background-color: #333;
+        cursor: pointer;
+    }
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #333;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+@keyframes radiant-scan {
+    0% {
+        transform: scale(0);
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Add your styles below this line */
+
+
+.btn:hover {
+    background-color: #0932d5;
+}
+
+@keyframes radiant-scan {
+    0% {
+        transform: scale(0);
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Add your styles below this line */
+
+/* END: abpxx6d04wxr */
+
+
+/* Add your styles below this line */
+
+#incrementBtn, #decrementBtn {
+    border: none;
+    border-radius: 5px;
+    flex-direction: column;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #10e1b4;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 10px;
+    height: 45px;
+
+}
+
+#incrementBtn:hover, #decrementBtn:hover {
+    background-color: hsl(172, 91%, 47%);
+    border: none;
+    border-radius: 5px;
+    flex-direction: column;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background-color: #10e1b4;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 10px;
+    height: 45px;
+
+
+/* END: abpxx6d04wxr */
+}
